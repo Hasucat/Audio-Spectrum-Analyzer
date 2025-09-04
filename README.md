@@ -18,5 +18,6 @@
 3. `.\[venv name]\Scripts\activate`
 4. `pip install -r requirements.txt`
 5. For running notebooks from VS Code, install Jupyter extension and select the [venv name] kernel from the notebook and run it.
+6. Don't forget to add the virtual environment folder to `.gitignore`.
 
 Made by 210041202, 210041205, 210041238, 210041239
